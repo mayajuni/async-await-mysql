@@ -1,0 +1,9 @@
+{
+  "name": "typescript-mysql",
+  "dependencies": {},
+  "globalDependencies": {
+    "mocha": "registry:dt/mocha#2.2.5+20160619032855",
+    "node": "registry:env/node#6.0.0+20160622202520",
+    "should": "registry:dt/should#8.1.1+20160608082854"
+  }
+}
